@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>bullet-list.png</file>
+    <file>camera.png</file>
+    <file>database.png</file>
+    <file>icons8-edit-24.png</file>
+    <file>logout.png</file>
+    <file>school-material.png</file>
+  </qresource>
+</RCC>
